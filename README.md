@@ -18,16 +18,4 @@ Course: Object Oriented Programming with C++ (DSA01)
 - Replace the name/register-number placeholders in the READMEs before submitting.
 - This starter solution includes working code and explanatory notes. Review it, execute it yourself, and make sure you can explain it in your viva.
 
-## GitHub
-Suggested repository name: `DSA01-<RegisterNumber>-Assignment4`
 
-Example commands from the parent folder:
-```bash
-git init
-git add .
-git commit -m "Add Assignment 4 task folders"
-git branch -M main
-git remote add origin https://github.com/<username>/DSA01-<RegisterNumber>-Assignment4.git
-git push -u origin main
-```
-Commit progressively: make a separate commit for each task as required by the assignment.
